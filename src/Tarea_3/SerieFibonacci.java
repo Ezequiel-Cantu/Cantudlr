@@ -20,7 +20,6 @@ public class SerieFibonacci {
 			i++;
 		}while(i <= intElements);
 		
-	}
-		
+	}	
 }
 
